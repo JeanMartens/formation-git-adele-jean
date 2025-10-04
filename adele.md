@@ -1,1 +1,1 @@
-tu sens forts des aisselles ce soir
+La personne qui se trouve assise à ma gauche dégage une odeur particulièrement prononcée de clou de girofle qui émane de ses cheveux.
