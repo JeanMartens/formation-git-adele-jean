@@ -17,6 +17,6 @@ libs/
 .DS_Store
 
 
-.pdf
-.html
-.Rproj
+*.pdf
+*.html
+*.Rproj
