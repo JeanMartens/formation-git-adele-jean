@@ -15,3 +15,8 @@ public/
 render*
 libs/
 .DS_Store
+
+
+.pdf
+.html
+.Rproj
